@@ -1,0 +1,15 @@
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\bin\Debug\net7.0\v8.exe
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\bin\Debug\net7.0\v8.deps.json
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\bin\Debug\net7.0\v8.runtimeconfig.json
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\bin\Debug\net7.0\v8.dll
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\bin\Debug\net7.0\v8.pdb
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.AssemblyInfoInputs.cache
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.AssemblyInfo.cs
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.dll
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\refint\v8.dll
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.pdb
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\v8.genruntimeconfig.cache
+C:\Users\roman\OneDrive\Документы\Экзамен ООП\v8\obj\Debug\net7.0\ref\v8.dll
