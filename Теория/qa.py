@@ -27,10 +27,8 @@ for x in array:
 
 qNumber = input()
 fileName = "{q}.txt".format(q = qNumber)
-f = open(fileName, "r")
+with open(fileName, "r") as f:
+	for line in f:
+		print(line)
 
-for line in f:
-	print(line)
-
-f.close()
 os.system("PAUSE")
