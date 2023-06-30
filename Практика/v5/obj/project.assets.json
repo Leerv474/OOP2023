@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roman\\OneDrive\\Документы\\Экзамен ООП\\v5\\v5.csproj",
+      "projectUniqueName": "c:\\Users\\roman\\OneDrive\\Документы\\OOP\\Практика\\v5\\v5.csproj",
       "projectName": "v5",
-      "projectPath": "C:\\Users\\roman\\OneDrive\\Документы\\Экзамен ООП\\v5\\v5.csproj",
+      "projectPath": "c:\\Users\\roman\\OneDrive\\Документы\\OOP\\Практика\\v5\\v5.csproj",
       "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roman\\OneDrive\\Документы\\Экзамен ООП\\v5\\obj\\",
+      "outputPath": "c:\\Users\\roman\\OneDrive\\Документы\\OOP\\Практика\\v5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,3 +1,4 @@
+import os
 array = [
 	"1. Дайте характеристику объекту в ООП. Приведите примеры классов в С#.",
 	"2. Дайте характеристику платформе Microsoft .Net Framework С#.",
@@ -32,3 +33,4 @@ for line in f:
 	print(line)
 
 f.close()
+os.system("PAUSE")
