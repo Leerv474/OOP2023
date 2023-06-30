@@ -27,7 +27,7 @@ for x in array:
 
 qNumber = input()
 fileName = "{q}.txt".format(q = qNumber)
-with open(fileName, "r") as f:
+with open(fileName, "r", encoding = "utf-8") as f:
 	for line in f:
 		print(line)
 
